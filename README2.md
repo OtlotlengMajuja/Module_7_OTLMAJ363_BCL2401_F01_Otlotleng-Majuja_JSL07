@@ -8,8 +8,7 @@ Variable declarations, modal management, form submission, event listeners, input
 # Reflections
 # Areas of Mastery
 **Conditional Logic:** I believe that I was able to demonstrate that fallback value assignment and input validation are two uses for conditional statements.
-**Event Handling:** 
-**Form Management:**
+**Event Handling:** Using event listeners to manage form submission and intended modal closing.
 
 # Challenges Faced
 The possiblity of errors and incomplete code made debugging difficult. Error handling for other possiblle problems (such as invalid DOM element references) is absent, input validation is implemented for `studentName` and `personalMessage` 
