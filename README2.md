@@ -14,3 +14,4 @@ Variable declarations, modal management, form submission, event listeners, input
 The possiblity of errors and incomplete code made debugging difficult. Error handling for other possiblle problems (such as invalid DOM element references) is absent, input validation is implemented for `studentName` and `personalMessage` 
 
 # Overall Learning Experience
+Through an understanding of event listener behaviour and event-driven programming, this project improved my comprehension of an event flow.
